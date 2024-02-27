@@ -1,0 +1,15 @@
+/* 공통 스타일 */
+
+
+  .background {
+    position: relative;
+    background-color: #fafafa;
+  }
+
+  .ellipse {
+    position: absolute;
+    background-color: #009f50;
+    height: 900px;
+    width: 100%;
+    border-radius: 0 0 50% 50%;
+  }
